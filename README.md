@@ -1,5 +1,5 @@
 # Load Cell (Part 1)
-Weight anything using your Arduino
+Weigh anything using your Arduino
 
 # See video #31 at https://www.youtube.com/RalphBacon
 
